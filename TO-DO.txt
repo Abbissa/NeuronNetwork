@@ -1,0 +1,7 @@
+Autocorrecion de los pesos
+Importe de conjunto de entrenamiento, verificacion y test (o extraccion de estos conjuntos a partir de un solo set)
+Training
+Seleccion de funcion de activacion por layer
+Exporte de configuracion de pesos a archivo
+Importe de configuracion de pesos a traves de archivo
+Front end 
